@@ -14,7 +14,7 @@ A lab-only educational network security project demonstrating LAN host discovery
 - Packet capture to PCAP
 - PCAP readback and summary
 - Flow statistics plugin
-- Flask-based dashboard
+- dashboard
 
 ## Dashboard Pages
 
