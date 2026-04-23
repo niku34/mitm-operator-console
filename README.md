@@ -39,6 +39,4 @@ A lab-only educational network security project demonstrating LAN host discovery
 - VirtualBox
 - Kali Linux / Linux VMs
 
-## Notes
 
-This project is intended strictly for an isolated educational lab environment.
